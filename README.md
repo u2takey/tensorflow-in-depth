@@ -8,7 +8,7 @@
 - [Models/Projects](#github-projects)
 - [Videos](#video)
 - [Papers](#papers)
-- [Blog posts](#blogs)
+- [Blog/PPT](#blogs)
 - [Community](#community)
 - [Books](#books)
 <!-- /MarkdownTOC -->
@@ -50,17 +50,13 @@
 
 <a name="blogs" />
 
-## Blog posts
+## Blog/PPT
 
-* [TensorFlow: smarter machine learning, for everyone](https://googleblog.blogspot.com/2015/11/tensorflow-smarter-machine-learning-for.html) - An introduction to TensorFlow
-* [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.com/2016/05/announcing-syntaxnet-worlds-most.html) - Release of SyntaxNet, "an open-source neural network framework implemented in TensorFlow that provides a foundation for Natural Language Understanding systems.
-* [TensorFlow - Not Just For Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/)
-* [The indico Machine Learning Team's take on TensorFlow](https://indico.io/blog/indico-tensorflow)
-* [The Good, Bad, & Ugly of TensorFlow](https://indico.io/blog/the-good-bad-ugly-of-tensorflow/) - A survey of six months rapid evolution (+ tips/hacks and code to fix the ugly stuff), Dan Kuster at Indico, May 9, 2016
-* [RNNs In TensorFlow, A Practical Guide And Undocumented Features](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/) - Step-by-step guide with full code examples on GitHub.
-* [TFRecords Guide](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/) semantic segmentation and handling the TFRecord file format.
-* [TensorFlow Optimizations on Modern Intel® Architecture](https://software.intel.com/en-us/articles/tensorflow-optimizations-on-modern-intel-architecture) - Introduces TensorFlow optimizations on Intel® Xeon® and Intel® Xeon Phi™ processor-based platforms based on an Intel/Google collaboration.
-* [How Does The TensorFlow Work](https://www.letslearnai.com/2018/02/02/how-does-the-machine-learning-library-tensorflow-work.html) How Does The Machine Learning Library TensorFlow Work?
+* [图解tensorflow源码](http://www.cnblogs.com/yao62995/p/5773578.html) - TensorFlow图解分析, 导读源码和架构.
+* [Tensorflow源码解析](http://gonewithgt.github.io/2017/04/20/Tensorflow%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/) - 先介绍了TensorFlow的核心概念和基本概述, 然后从源码剖析了TensorFlow的一些模块.
+* [TensorFlow - Not Just For Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/) 来自[YuanTang的博客](https://terrytangyuan.github.io/), YuanTang是tensorflow、MXNet、XGBoost等项目的committer.
+* [How Does The TensorFlow Work](https://www.letslearnai.com/2018/02/02/how-does-the-machine-learning-library-tensorflow-work.html) TensorFlow如何运作？
+* [A tour through the TensorFlow codebase](http://public.kevinrobinsonblog.com/docs/A%20tour%20through%20the%20TensorFlow%20codebase%20-%20v4.pdf) TensorFlow源码概览
 
 
 <a name="community" />
@@ -76,8 +72,6 @@
 
 ## Books
 
-* [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/) - Complete guide to use TensorFlow from the basics of graph computing, to deep learning models to using it in production environments - Bleeding Edge Press
-* [Deep Learning using TensorLayer](http://www.broadview.com.cn/book/5059) - by Hao Dong et al. This book covers both deep learning and the implmentation by using TensorFlow and TensorLayer.
 
 
 
