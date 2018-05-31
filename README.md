@@ -34,7 +34,7 @@
 <a name="video" />
 
 ## Videos
-
+* [TensorFlow on YouTube](https://www.youtube.com/tensorflow) - TensorFlow在YouTube的主页，里面如[TensorFlow Dev Summit 2018](https://www.youtube.com/playlist?list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN)，[Coding TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx) 值得关注.
 
 <a name="papers" />
 
