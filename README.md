@@ -47,6 +47,7 @@
 * [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet).
 * [TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695) - This paper describes the TensorFlow dataflow model in contrast to existing systems and demonstrate the compelling performance
 * [TensorLayer: A Versatile Library for Efficient Deep Learning Development](https://arxiv.org/abs/1707.08551) - This paper describes a versatile Python library that aims at helping researchers and engineers efficiently develop deep learning systems. (Winner of The Best Open Source Software Award of ACM MM 2017)
+* [Scaling Distributed Machine Learning with the Parameter Server](https://www.cs.cmu.edu/~dga/papers/osdi14-paper-li_mu.pdf) - How parameter server works, proposed a parameter server framework for distributed machine learning problems.
 
 <a name="blogs" />
 
