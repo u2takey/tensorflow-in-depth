@@ -1,5 +1,7 @@
 # tensorflow-in-depth
-和 [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) 不同, [tensorflow-in-depth](https://github.com/u2takey/tensorflow-in-depth) 偏向于收集那些关注`tensorflow`以及类似的机器学习/深度学习框架底层实现原理、架构的资料，而不是关注`如何使用`的资料。
+
+# tensorflow-in-depth
+Unlike [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow), [tensorflow-in-depth](https://github.com/u2takey/tensorflow-in-depth) collects tutorials, projects, papers, blogs focusing on underlying mechanism of `tensorflow` and similar machine/deep learnning framework.
 
 ## Table of Contents
 
@@ -34,7 +36,7 @@
 <a name="video" />
 
 ## Videos
-* [TensorFlow on YouTube](https://www.youtube.com/tensorflow) - TensorFlow在YouTube的主页，里面如[TensorFlow Dev Summit 2018](https://www.youtube.com/playlist?list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN)，[Coding TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx) 值得关注.
+* [TensorFlow on YouTube](https://www.youtube.com/tensorflow) - TensorFlow's Page On Youtube, [TensorFlow Dev Summit 2018](https://www.youtube.com/playlist?list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN)，[Coding TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx).
 
 <a name="papers" />
 
@@ -52,11 +54,10 @@
 
 ## Blog/PPT
 
-* [图解tensorflow源码](http://www.cnblogs.com/yao62995/p/5773578.html) - TensorFlow图解分析, 导读源码和架构.
-* [Tensorflow源码解析](http://gonewithgt.github.io/2017/04/20/Tensorflow%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/) - 先介绍了TensorFlow的核心概念和基本概述, 然后从源码剖析了TensorFlow的一些模块.
-* [TensorFlow - Not Just For Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/) 来自[YuanTang的博客](https://terrytangyuan.github.io/), YuanTang是tensorflow、MXNet、XGBoost等项目的committer.
-* [How Does The TensorFlow Work](https://www.letslearnai.com/2018/02/02/how-does-the-machine-learning-library-tensorflow-work.html) - TensorFlow如何运作？
-* [A tour through the TensorFlow codebase](http://public.kevinrobinsonblog.com/docs/A%20tour%20through%20the%20TensorFlow%20codebase%20-%20v4.pdf) - TensorFlow源码概览.
+* [TensorFlow - Not Just For Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/) From [YuanTang's Blog](https://terrytangyuan.github.io/), YuanTang is committer of tensorflow、MXNet、XGBoost.
+* [How Does The TensorFlow Work](https://www.letslearnai.com/2018/02/02/how-does-the-machine-learning-library-tensorflow-work.html) How TensorFlow Work
+* [A tour through the TensorFlow codebase](http://public.kevinrobinsonblog.com/docs/A%20tour%20through%20the%20TensorFlow%20codebase%20-%20v4.pdf) TensorFlow code tour.
+
 
 <a name="community" />
 
