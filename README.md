@@ -72,6 +72,7 @@
 
 ## Books
 
+* [深入理解TensorFlow 架构设计与实现原理](https://www.amazon.cn/dp/B07CLVXGLH/ref=sr_1_8?s=books&ie=UTF8&qid=1528080417&sr=1-8&keywords=tensorflow) - 前面主要是应用和算法，第四部门核心揭秘篇讲了tensorflow的设计和原理
 
 
 
