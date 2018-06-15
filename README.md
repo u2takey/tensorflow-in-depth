@@ -58,6 +58,7 @@
 * [TensorFlow - Not Just For Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/) 来自[YuanTang的博客](https://terrytangyuan.github.io/), YuanTang是tensorflow、MXNet、XGBoost等项目的committer.
 * [How Does The TensorFlow Work](https://www.letslearnai.com/2018/02/02/how-does-the-machine-learning-library-tensorflow-work.html) - TensorFlow如何运作？
 * [A tour through the TensorFlow codebase](http://public.kevinrobinsonblog.com/docs/A%20tour%20through%20the%20TensorFlow%20codebase%20-%20v4.pdf) - TensorFlow源码概览.
+* [An Introduction to TensorFlow architecture](https://www.slideshare.net/ManiGoswami/into-to-tensorflow-architecture-v2) - tensorflow架构原理简介
 
 <a name="community" />
 
