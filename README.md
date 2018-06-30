@@ -19,6 +19,7 @@
 ## Tutorials
 
 * [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html) - Modular implementation for TensorFlow's official tutorials. ([CN](https://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html)).
+* [Tensorflow Architecture](https://www.tensorflow.org/extend/architecture) 官网Tensorflow架构介绍，需要拓展Tensorflow API或者优化Tensorflow性能的人可以阅读这篇文档.
 
 <a name="github-projects" />
 
