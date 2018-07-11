@@ -8,7 +8,7 @@
 - [Models/Projects](#github-projects)
 - [Videos](#video)
 - [Papers](#papers)
-- [Blog/PPT](#blogs)
+- [Blog/Slides](#blogs)
 - [Community](#community)
 - [Books](#books)
 <!-- /MarkdownTOC -->
@@ -52,7 +52,7 @@
 
 <a name="blogs" />
 
-## Blog/PPT
+## Blog/Slides
 
 * [图解tensorflow源码](http://www.cnblogs.com/yao62995/p/5773578.html) - TensorFlow图解分析, 导读源码和架构.
 * [Tensorflow源码解析](http://gonewithgt.github.io/2017/04/20/Tensorflow%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/) - 先介绍了TensorFlow的核心概念和基本概述, 然后从源码剖析了TensorFlow的一些模块.
@@ -60,6 +60,7 @@
 * [How Does The TensorFlow Work](https://www.letslearnai.com/2018/02/02/how-does-the-machine-learning-library-tensorflow-work.html) - TensorFlow如何运作？
 * [A tour through the TensorFlow codebase](http://public.kevinrobinsonblog.com/docs/A%20tour%20through%20the%20TensorFlow%20codebase%20-%20v4.pdf) - TensorFlow源码概览.
 * [An Introduction to TensorFlow architecture](https://www.slideshare.net/ManiGoswami/into-to-tensorflow-architecture-v2) - tensorflow架构原理简介
+* [Autodiff Workshop](https://autodiff-workshop.github.io/) - 2017年的Workshop, gradient-based machine learning技术，有不少slides值得看.
 
 <a name="community" />
 

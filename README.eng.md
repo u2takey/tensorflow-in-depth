@@ -10,7 +10,7 @@ Unlike [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow), [tensor
 - [Models/Projects](#github-projects)
 - [Videos](#video)
 - [Papers](#papers)
-- [Blog/PPT](#blogs)
+- [Blog/Slides](#blogs)
 - [Community](#community)
 - [Books](#books)
 <!-- /MarkdownTOC -->
@@ -54,12 +54,13 @@ Unlike [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow), [tensor
 
 <a name="blogs" />
 
-## Blog/PPT
+## Blog/Slides
 
 * [TensorFlow - Not Just For Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/) From [YuanTang's Blog](https://terrytangyuan.github.io/), YuanTang is committer of tensorflow、MXNet、XGBoost.
 * [How Does The TensorFlow Work](https://www.letslearnai.com/2018/02/02/how-does-the-machine-learning-library-tensorflow-work.html) How TensorFlow Work
 * [A tour through the TensorFlow codebase](http://public.kevinrobinsonblog.com/docs/A%20tour%20through%20the%20TensorFlow%20codebase%20-%20v4.pdf) TensorFlow code tour.
 * [An Introduction to TensorFlow architecture](https://www.slideshare.net/ManiGoswami/into-to-tensorflow-architecture-v2) - An Introduction to TensorFlow architecture and underlying mechanism.
+* [Autodiff Workshop](https://autodiff-workshop.github.io/) - The future of gradient-based machine learning software and techniques, NIPS 2017.
 
 
 <a name="community" />
