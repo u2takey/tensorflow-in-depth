@@ -22,6 +22,7 @@ Unlike [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow), [tensor
 
 * [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html) - Modular implementation for TensorFlow's official tutorials. ([CN](https://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html)).
 * [Tensorflow Architecture](https://www.tensorflow.org/extend/architecture) This document is for developers who want to extend TensorFlow in some way not supported by current APIs, hardware engineers who want to optimize for TensorFlow, implementers of machine learning systems working on scaling and distribution, or anyone who wants to look under Tensorflow's hood.
+* [MPI Tutorial](http://mpitutorial.com/) A website dedicated to providing useful tutorials about the Message Passing Interface (MPI).
 
 <a name="github-projects" />
 
