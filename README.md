@@ -1,12 +1,12 @@
 # tensorflow-in-depth
 和 [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) 不同, [tensorflow-in-depth](https://github.com/u2takey/tensorflow-in-depth) 偏向于收集那些关注`tensorflow`以及类似的机器学习/深度学习框架底层实现原理、架构的资料，而不是关注`如何使用`的资料。
 
-## Table of Contents
+## 目录
 
 <!-- MarkdownTOC depth=4 -->
 - [Tutorials](#github-tutorials)
 - [Models/Projects](#github-projects)
-- [Videos](#video)
+- [Videos/Course](#video)
 - [Papers](#papers)
 - [Blog/Slides](#blogs)
 - [Community](#community)
@@ -35,8 +35,9 @@
 
 <a name="video" />
 
-## Videos
+## Videos/Course
 * [TensorFlow on YouTube](https://www.youtube.com/tensorflow) - TensorFlow在YouTube的主页，里面如[TensorFlow Dev Summit 2018](https://www.youtube.com/playlist?list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN)，[Coding TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx) 值得关注.
+* [Designing and Building Applications for Extreme Scale Systems](http://wgropp.cs.illinois.edu/courses/cs598-s16/) - 大规模系统高性能计算的一个课程，介绍了许多重要的概念.
 
 <a name="papers" />
 

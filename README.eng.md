@@ -8,7 +8,7 @@ Unlike [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow), [tensor
 <!-- MarkdownTOC depth=4 -->
 - [Tutorials](#github-tutorials)
 - [Models/Projects](#github-projects)
-- [Videos](#video)
+- [Videos/Course](#video)
 - [Papers](#papers)
 - [Blog/Slides](#blogs)
 - [Community](#community)
@@ -37,8 +37,9 @@ Unlike [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow), [tensor
 
 <a name="video" />
 
-## Videos
+## Videos/Course
 * [TensorFlow on YouTube](https://www.youtube.com/tensorflow) - TensorFlow's Page On Youtube, [TensorFlow Dev Summit 2018](https://www.youtube.com/playlist?list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN)，[Coding TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx).
+* [Designing and Building Applications for Extreme Scale Systems](http://wgropp.cs.illinois.edu/courses/cs598-s16/) - Learn how to design and implement applications for extreme scale systems, including analyzing and understanding the performance of applications, the primary causes of poor performance and scalability, and how both the choice of algorithm and programming system impact achievable performance.The course covers multi-and many-core processors, interconnects in HPC systems, parallel I/O, and the impact of faults on program and algorithm design.
 
 <a name="papers" />
 
